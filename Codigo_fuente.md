@@ -1,26 +1,24 @@
 # Documentacion Interna
 
-python
-
 ###### Librerias
-import tkinter as tk  
+	import tkinter as tk  
 ###### es un módulo que proporciona funcionalidades para crear interfaces gráficas.es un módulo que proporciona funcionalidades para crear interfaces gráficas.
 
-from tkinter import filedialog 
+	from tkinter import filedialog 
 ###### crear cuadros de diálogo de apertura y guardado de archivos en aplicaciones de interfaz gráfica de usuario (GUI).
 
-from tkinter import messagebox
+	from tkinter import messagebox
 ###### messagebox para crear ventanas emergentes de mensaje personalizadas.
 
-from tkinter import ttk
+	from tkinter import ttk
 ###### Los widgets de ttk están diseñados para verse más modernos y proporcionar una experiencia de usuario más agradable
 
-import webbrowser  # Importa el módulo webbrowser
+	import webbrowser  # Importa el módulo webbrowser
 ###### este módulo para abrir páginas web en un navegador web predeterminado, 
 
 
-###### habilitar las funciones de deshacer y rehacer
-class CustomText(tk.Text):
+# habilitar las funciones de deshacer y rehacer
+	class CustomText(tk.Text):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs, undo=True)  # Habilitar deshacer y rehacer
         self.undo_stack = []
@@ -59,7 +57,7 @@ class CustomText(tk.Text):
         menu.add_command(label="Pegar", command=lambda: self.event_generate("<<Paste>>"))
         menu.post(event.x_root, event.y_root)
 
-class TextEditorApp:
+	class TextEditorApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Text Editor")
@@ -183,9 +181,8 @@ class TextEditorApp:
     def close_app(self):
         self.root.destroy()
 
-
 ###### cuando ejecutas este script, se creará una ventana de aplicación de editor de texto utilizando la clase TextEditorApp y la interfaz gráfica de tkinter, y podrás interactuar con ella para editar texto, abrir archivos, guardarlos, cambiar temas, etc.
-if __name__ == "__main__":
+	if __name__ == "__main__":
     root = tk.Tk()
     app = TextEditorApp(root)
     root.mainloop()
