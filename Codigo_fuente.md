@@ -1,3 +1,5 @@
+```javascript
+
 # Documentacion Interna
 
 ###### Librerias
