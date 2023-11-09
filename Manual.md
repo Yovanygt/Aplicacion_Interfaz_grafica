@@ -1,4 +1,4 @@
-# ## MANUAL DE USUARIO
+### MANUAL DE USUARIO
 
 ### Requisitos del sistema para utilizar la herramienta TEXT EDITOR
 
@@ -85,6 +85,41 @@ Configurando el script con$ cd Python-3.* ./configure
 - por ultimo tenemos la opción de cerrar con la icónica X
 
 ![](https://github.com/Yovanygt/imagenes/blob/main/1t.PNG)
+
+
+![](https://github.com/Yovanygt/imagenes/blob/main/2t.PNG)
+
+###  La opción de abrir
+nos permitirá escoger cualquier archivo que queramos abrir
+
+![](https://github.com/Yovanygt/imagenes/blob/main/3t.PNG)
+
+### La opción de editar 
+nos da las siguientes opciones y todo va a depender de que opción o elección tomemos. 
+
+![](https://github.com/Yovanygt/imagenes/blob/main/4t.PNG)
+
+### Diseño:
+en este apartado encontramos la opción de cambiar de color la ventana emergente o ya sea cambiar el tema, de claro a oscuro o viceversa.
+
+![](https://github.com/Yovanygt/imagenes/blob/main/5t.PNG)
+
+
+### ayuda: 
+- en este apartado tenemos lo que seria la información de la app 
+- integrantes 
+- manual de usuario el cual si le damos clik, nos lleva a un
+- repostorio en github con su respectivo manual.
+
+![](https://github.com/Yovanygt/imagenes/blob/main/8t.PNG)
+
+![](https://github.com/Yovanygt/imagenes/blob/main/7t.PNG)
+
+![](https://github.com/Yovanygt/imagenes/blob/main/6t.PNG)
+
+
+
+
 
 
 
