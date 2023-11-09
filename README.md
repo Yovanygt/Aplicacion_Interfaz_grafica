@@ -8,8 +8,9 @@ Enlaces al proyecto
 ## Documentacion Interna
 [Enlace](https://github.com/Yovanygt/Aplicacion_Interfaz_grafica/blob/main/Codigo_fuente.md "Enlace")
 - 
-### # Enlaces A Manuales
+#### Enlaces A Manuales
 
+[Enlace Manual](https://github.com/Yovanygt/Aplicacion_Interfaz_grafica/blob/main/Manual.md "Enlace Manual")
 
 ------------
 
