@@ -6,7 +6,7 @@
 Enlaces al proyecto
 ------------
 ## Documentacion Interna y Externa
-[Enlace](https://github.com/Yovanygt/Aplicacion_Interfaz_grafica/blob/main/Codigo_fuente.md "Enlace")
+[Enlace Codigo Fuente](https://github.com/Yovanygt/Aplicacion_Interfaz_grafica/blob/main/Codigo_fuente.md "Enlace")
 - 
 #### Enlaces A Manuales
 ------------------------
